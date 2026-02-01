@@ -18424,6 +18424,71 @@
           }
         }
       }
+    },
+    "3AB19EF1393DA36F188E": {
+      "key": {
+        "remoteJid": "120363423649822867@g.us",
+        "fromMe": false,
+        "id": "3AB19EF1393DA36F188E",
+        "participant": "157805923274884@lid",
+        "participantAlt": "4367764694963@s.whatsapp.net",
+        "addressingMode": "lid"
+      },
+      "messageTimestamp": 1769974043,
+      "pushName": "Nico",
+      "broadcast": false,
+      "message": {
+        "conversation": ".play end of begining",
+        "messageContextInfo": {
+          "messageSecret": {
+            "type": "Buffer",
+            "data": [
+              139,
+              196,
+              135,
+              3,
+              200,
+              71,
+              50,
+              67,
+              65,
+              216,
+              32,
+              64,
+              97,
+              150,
+              79,
+              216,
+              56,
+              237,
+              207,
+              13,
+              58,
+              227,
+              37,
+              22,
+              150,
+              39,
+              16,
+              16,
+              247,
+              21,
+              58,
+              21
+            ]
+          },
+          "limitSharingV2": {
+            "sharingLimited": true,
+            "trigger": 1,
+            "limitSharingSettingTimestamp": {
+              "low": 1348964133,
+              "high": 411,
+              "unsigned": false
+            },
+            "initiatedByMe": false
+          }
+        }
+      }
     }
   },
   "120363408807773798@g.us": {
